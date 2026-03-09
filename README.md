@@ -14,4 +14,4 @@ I reach for whatever fits the problem. I care more about fundamentals than any p
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/ablack94)
+[LinkedIn](https://www.linkedin.com/in/andrewablack)
