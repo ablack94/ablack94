@@ -8,6 +8,7 @@ I reach for whatever fits the problem. I care more about fundamentals than any p
 
 ### Some things I’m building
 
+- **[claude-container](https://github.com/ablack94/claude-container)** - Easily run claude safely in YOLO mode
 - **[agentic-development-environment](https://github.com/ablack94/agentic-development-environment)** — Multi-agent platform where Claude agents collaborate on software tasks using Git-native workflows and network-isolated containers
 - **[mm_rs](https://github.com/ablack94/mm_rs)** — Rust crypto market-making system with a deterministic event-driven engine and scenario-driven testing
 
