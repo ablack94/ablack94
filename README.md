@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I’m Andrew
 
-<!--
-**ablack94/ablack94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-level software engineer. Systems generalist. I like building things and I’ve been doing it since I was a kid.
 
-Here are some ideas to get you started:
+Lately I’m deep into agentic AI — sandboxed execution, MCP tooling, and figuring out how to let autonomous agents do real work without breaking everything. Outside of that I spend most of my time in Python, C++, and Rust, with broad experience across distributed systems, networking, performance, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I reach for whatever fits the problem. I care more about fundamentals than any particular stack.
+
+### Some things I’m building
+
+- **[agentic-development-environment](https://github.com/ablack94/agentic-development-environment)** — Multi-agent platform where Claude agents collaborate on software tasks using Git-native workflows and network-isolated containers
+- **[mm_rs](https://github.com/ablack94/mm_rs)** — Rust crypto market-making system with a deterministic event-driven engine and scenario-driven testing
+
+### Find me
+
+[LinkedIn](https://www.linkedin.com/in/ablack94)
