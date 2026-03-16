@@ -12,6 +12,14 @@ I reach for whatever fits the problem. I care more about fundamentals than any p
 - **[agentic-development-environment](https://github.com/ablack94/agentic-development-environment)** — Multi-agent platform where Claude agents collaborate on software tasks using Git-native workflows and network-isolated containers
 - **[mm_rs](https://github.com/ablack94/mm_rs)** — Rust crypto market-making system with a deterministic event-driven engine and scenario-driven testing
 
+### Currently
+
+- Exploring [NATS](https://nats.io/)
+    - [ablack94/appendlog-rs](https://github.com/ablack94/appendlog-rs)
+        - Fiddling with event logs and traits for pluggable backends.
+    - [ablack94/nats-deployment](https://github.com/ablack94/nats-deployment)
+        - Docker compose deployment/configuration of NATS used for local experiments.
+
 ### Find me
 
 [LinkedIn](https://www.linkedin.com/in/andrewablack)
